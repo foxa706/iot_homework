@@ -10,7 +10,7 @@ import time
 
 to = 'foxa706@newschool.edu'
 gmail_user = 'audrey.michelle.fox@gmail.com'
-gmail_pswrd = 'fallSpider2015'	
+gmail_pswrd = '###'	
 smtpserver = smtplib.SMTP('smtp.gmail.com', 587)
 smtpserver.ehlo()
 smtpserver.starttls()
